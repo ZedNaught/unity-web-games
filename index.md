@@ -1,3 +1,7 @@
+## Hello
+
+I'm leaving the GitHub Pages starting template here until I figure out something better to do with it. I'll link to the games themselves from my [main website](https://www.areyes.biz), https://www.areyes.biz.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ZedNaught/unity-web-games/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
